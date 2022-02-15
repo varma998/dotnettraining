@@ -1,0 +1,6 @@
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\bin\Debug\AgentExceptions.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\bin\Debug\AgentExceptions.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\obj\Debug\AgentExceptions.csproj.AssemblyReference.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\obj\Debug\AgentExceptions.csproj.CoreCompileInputs.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\obj\Debug\AgentExceptions.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentExceptions\obj\Debug\AgentExceptions.pdb

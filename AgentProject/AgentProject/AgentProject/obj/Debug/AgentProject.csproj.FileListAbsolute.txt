@@ -1,0 +1,17 @@
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentProject.exe.config
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentProject.exe
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentProject.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.csproj.AssemblyReference.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.csproj.SuggestedBindingRedirects.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.csproj.CoreCompileInputs.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.exe
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentBAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentDAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentEntity.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentExceptions.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentBAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentDAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentEntity.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\bin\Debug\AgentExceptions.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentProject\obj\Debug\AgentProject.csproj.CopyComplete

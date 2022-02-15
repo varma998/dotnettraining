@@ -1,0 +1,12 @@
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\obj\Debug\AgentBAL.csproj.CoreCompileInputs.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentBAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentBAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentDAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentEntity.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentExceptions.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentDAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentEntity.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\bin\Debug\AgentExceptions.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\obj\Debug\AgentBAL.csproj.CopyComplete
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\obj\Debug\AgentBAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentBAL\obj\Debug\AgentBAL.pdb

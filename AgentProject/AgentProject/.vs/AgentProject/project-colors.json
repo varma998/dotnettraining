@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "901ea906-4080-4516-9e12-9f96f827dae0": {
+      "ProjectGuid": "901ea906-4080-4516-9e12-9f96f827dae0",
+      "DisplayName": "AgentProject",
+      "ColorIndex": 0
+    },
+    "fa92c962-7988-4c79-a0dd-42c62b903d43": {
+      "ProjectGuid": "fa92c962-7988-4c79-a0dd-42c62b903d43",
+      "DisplayName": "AgentEntity",
+      "ColorIndex": 1
+    },
+    "42566e1e-bbd5-4c60-9bfc-578619192652": {
+      "ProjectGuid": "42566e1e-bbd5-4c60-9bfc-578619192652",
+      "DisplayName": "AgentDAL",
+      "ColorIndex": 2
+    },
+    "a2384695-141f-4287-89be-2f406af800ec": {
+      "ProjectGuid": "a2384695-141f-4287-89be-2f406af800ec",
+      "DisplayName": "AgentBAL",
+      "ColorIndex": 3
+    },
+    "d9746f1d-face-4e12-8097-5a1312061625": {
+      "ProjectGuid": "d9746f1d-face-4e12-8097-5a1312061625",
+      "DisplayName": "AgentExceptions",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

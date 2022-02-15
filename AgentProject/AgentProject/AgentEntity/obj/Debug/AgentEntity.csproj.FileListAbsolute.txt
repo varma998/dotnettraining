@@ -1,0 +1,5 @@
+D:\Kamal\.NET\AgentProject\AgentProject\AgentEntity\bin\Debug\AgentEntity.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentEntity\bin\Debug\AgentEntity.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentEntity\obj\Debug\AgentEntity.csproj.CoreCompileInputs.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentEntity\obj\Debug\AgentEntity.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentEntity\obj\Debug\AgentEntity.pdb
